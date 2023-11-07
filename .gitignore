@@ -1,13 +1,13 @@
 # local env files
-.env
+.env*
 
 # OS generated files #
-######################
+# Windows
+Thumbs.db
+desktop.ini
+
+# OS X
 .DS_Store
-.DS_Store?
-._*
-.*.sw[op]
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db
+._*
